@@ -1,3 +1,3 @@
-# CSE 373 Project 4
+# MazeRunner
 
 Please see the assignment page on the course website for instructions on this assignment.
